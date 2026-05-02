@@ -1,4 +1,4 @@
-# skellamreg-With-STATA-19
+# skellamreg
 Skellam regression estimator Use skellamreg With STATA 19
 
 Olah Data Semarang
