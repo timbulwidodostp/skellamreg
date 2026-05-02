@@ -1,0 +1,6 @@
+D 'skellamreg': Skellam regression estimator Use skellamreg With STATA 19
+D
+F skellamreg.ado
+F skellamreg.sthlp
+F skellamreg_p.ado
+F skellamreg_postestimation.sthlp
