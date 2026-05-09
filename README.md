@@ -1,6 +1,8 @@
 # skellamreg
 Skellam regression estimator Use skellamreg With STATA 19
 
+https://www.youtube.com/watch?v=AEvdFrRZktI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
